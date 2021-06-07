@@ -1,0 +1,37 @@
+#heading
+{
+    text-align: center;
+    font-family: cursive;
+    font-size: 40px;
+    font-weight: 600;
+}
+form
+{
+    border: 5px solid Black;
+    width: 50%;
+    height: 240px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 9vw;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 25px;
+    color: black;
+    padding-top: 40px;
+    
+}
+
+form a
+{
+    border:  3px solid grey;
+    box-shadow: 2px 2px 5px grey;
+    text-decoration: none;
+    font-size: 30px;
+    
+}
+
+form a:hover
+{
+    background-color: greenyellow;
+}
